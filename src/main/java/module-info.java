@@ -3,6 +3,6 @@ module com.example.pmt_theatercomedy_gruppg {
     requires javafx.fxml;
 
 
-    opens com.example.pmt_theatercomedy_gruppg to javafx.fxml;
-    exports com.example.pmt_theatercomedy_gruppg;
+    opens de.hhn.ai.pmt.theatercomedy.model to javafx.fxml;
+    exports de.hhn.ai.pmt.theatercomedy.model;
 }

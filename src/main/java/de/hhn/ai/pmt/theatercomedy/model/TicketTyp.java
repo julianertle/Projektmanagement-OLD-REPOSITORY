@@ -1,4 +1,4 @@
-package com.example.pmt_theatercomedy_gruppg;
+package de.hhn.ai.pmt.theatercomedy.model;
 
 public enum TicketTyp {
 	Erwachsener,

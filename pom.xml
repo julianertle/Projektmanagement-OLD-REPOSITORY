@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.example.pmt_theatercomedy_gruppg/com.example.pmt_theatercomedy_gruppg.HelloApplication
+                                com.example.pmt_theatercomedy_gruppg/de.hhn.ai.pmt.theatercomedy.model.HelloApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
