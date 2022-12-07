@@ -4,17 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0994cb19-65aa-4595-83ce-f52f8333d9bf" name="Changes" comment="Small renaming changes and added directory's">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0994cb19-65aa-4595-83ce-f52f8333d9bf" name="Changes" comment="Added classes for test purpose">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/hhn/ai/pmt/theatercomedy/control/SecondController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/hhn/ai/pmt/theatercomedy/view/StartseiteView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/de/hhn/ai/pmt/theatercomedy/model/startseite-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/hhn/ai/pmt/theatercomedy/control/TestClassControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/hhn/ai/pmt/theatercomedy/model/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/hhn/ai/pmt/theatercomedy/control/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/hhn/ai/pmt/theatercomedy/view/TestClassView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/de/hhn/ai/pmt/theatercomedy/model/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/de/hhn/ai/pmt/theatercomedy/model/hello-view.fxml" afterDir="false" />
+    </list>
+    <list id="b5e1436e-c5c8-40b7-b0fa-4544611dba04" name="NoCommit" comment="">
+      <change beforePath="$PROJECT_DIR$/target/classes/de/hhn/ai/pmt/theatercomedy/model/HelloApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/hhn/ai/pmt/theatercomedy/model/HelloApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/hhn/ai/pmt/theatercomedy/model/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/hhn/ai/pmt/theatercomedy/model/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/hhn/ai/pmt/theatercomedy/model/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="development" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="master" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -31,26 +66,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Julian/IdeaProjects/Projektmanagement/src/main/java/de/hhn/ai/pmt/theatercomedy/model&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\PMT\JavaFx\src\main\java\com\example\pmt_theatercomedy_gruppg" />
     </key>
   </component>
+  <component name="RunManager" selected="Application.StartseiteView">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.hhn.ai.pmt.theatercomedy.model.HelloApplication" />
+      <module name="PMT_TheaterComedy_GruppG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.hhn.ai.pmt.theatercomedy.control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartseiteView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.hhn.ai.pmt.theatercomedy.view.StartseiteView" />
+      <module name="PMT_TheaterComedy_GruppG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.hhn.ai.pmt.theatercomedy.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartseiteView" />
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0994cb19-65aa-4595-83ce-f52f8333d9bf" name="Changes" comment="" />
+      <changelist id="b5e1436e-c5c8-40b7-b0fa-4544611dba04" name="NoCommit" comment="" />
       <created>1670429908095</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -58,6 +130,8 @@
       <workItem from="1670429909612" duration="1516000" />
       <workItem from="1670432789716" duration="1117000" />
       <workItem from="1670433952579" duration="842000" />
+      <workItem from="1670434802866" duration="5463000" />
+      <workItem from="1670441203149" duration="1031000" />
     </task>
     <task id="LOCAL-00001" summary="Small renaming changes and added directory's">
       <created>1670434548466</created>
@@ -66,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670434548467</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="JDK switching to openjdk-17">
+      <created>1670434901267</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670434901267</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added classes for test purpose">
+      <created>1670435045426</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670435045426</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +173,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Small renaming changes and added directory's" />
-    <option name="LAST_COMMIT_MESSAGE" value="Small renaming changes and added directory's" />
+    <MESSAGE value="JDK switching to openjdk-17" />
+    <MESSAGE value="Added classes for test purpose" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added classes for test purpose" />
   </component>
 </project>

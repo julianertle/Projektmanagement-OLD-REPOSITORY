@@ -1,4 +1,4 @@
-package de.hhn.ai.pmt.theatercomedy.model;
+package de.hhn.ai.pmt.theatercomedy.control;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
