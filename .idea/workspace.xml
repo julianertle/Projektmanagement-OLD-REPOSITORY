@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0994cb19-65aa-4595-83ce-f52f8333d9bf" name="Changes" comment="">
+    <list default="true" id="0994cb19-65aa-4595-83ce-f52f8333d9bf" name="Changes" comment="Small renaming changes and added directory's">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pmt_theatercomedy_gruppg/Benutzerkonto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/hhn/ai/pmt/theatercomedy/model/Benutzerkonto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pmt_theatercomedy_gruppg/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/hhn/ai/pmt/theatercomedy/model/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pmt_theatercomedy_gruppg/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/hhn/ai/pmt/theatercomedy/model/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pmt_theatercomedy_gruppg/Kalender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/hhn/ai/pmt/theatercomedy/model/Kalender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pmt_theatercomedy_gruppg/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/hhn/ai/pmt/theatercomedy/model/Ticket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pmt_theatercomedy_gruppg/TicketTyp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/hhn/ai/pmt/theatercomedy/model/TicketTyp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pmt_theatercomedy_gruppg/Ticketshop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/hhn/ai/pmt/theatercomedy/model/Ticketshop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pmt_theatercomedy_gruppg/Veranstaltung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/hhn/ai/pmt/theatercomedy/model/Veranstaltung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pmt_theatercomedy_gruppg/Veranstaltungsort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/hhn/ai/pmt/theatercomedy/model/Veranstaltungsort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pmt_theatercomedy_gruppg/Warenkorb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/hhn/ai/pmt/theatercomedy/model/Warenkorb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/pmt_theatercomedy_gruppg/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/de/hhn/ai/pmt/theatercomedy/model/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +36,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "configurable.group.tools"
   }
 }]]></component>
@@ -70,8 +57,16 @@
       <updated>1670429908095</updated>
       <workItem from="1670429909612" duration="1516000" />
       <workItem from="1670432789716" duration="1117000" />
-      <workItem from="1670433952579" duration="334000" />
+      <workItem from="1670433952579" duration="842000" />
     </task>
+    <task id="LOCAL-00001" summary="Small renaming changes and added directory's">
+      <created>1670434548466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670434548467</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Small renaming changes and added directory's" />
+    <option name="LAST_COMMIT_MESSAGE" value="Small renaming changes and added directory's" />
   </component>
 </project>
