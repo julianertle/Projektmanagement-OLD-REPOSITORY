@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0994cb19-65aa-4595-83ce-f52f8333d9bf" name="Changes" comment="Small renaming changes and added directory's">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/de/hhn/ai/pmt/theatercomedy/model/usersettings-view.fxml" afterDir="false" />
+    <list default="true" id="0994cb19-65aa-4595-83ce-f52f8333d9bf" name="Changes" comment="UI Prototypen zur Kontoeinstellungs-Activity.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/de/hhn/ai/pmt/theatercomedy/model/usersettings-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/de/hhn/ai/pmt/theatercomedy/model/usersettings-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,10 @@
       <workItem from="1670429909612" duration="1516000" />
       <workItem from="1670432789716" duration="1117000" />
       <workItem from="1670433952579" duration="842000" />
-      <workItem from="1670444186998" duration="2433000" />
+      <workItem from="1670444186998" duration="2564000" />
+      <workItem from="1670489358806" duration="899000" />
+      <workItem from="1670498497202" duration="525000" />
+      <workItem from="1670951434454" duration="611000" />
     </task>
     <task id="LOCAL-00001" summary="Small renaming changes and added directory's">
       <created>1670434548466</created>
@@ -67,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670434548467</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="UI Prototypen zur Kontoeinstellungs-Activity.">
+      <created>1670447040597</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670447040597</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +96,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Small renaming changes and added directory's" />
-    <option name="LAST_COMMIT_MESSAGE" value="Small renaming changes and added directory's" />
+    <MESSAGE value="UI Prototypen zur Kontoeinstellungs-Activity." />
+    <option name="LAST_COMMIT_MESSAGE" value="UI Prototypen zur Kontoeinstellungs-Activity." />
   </component>
 </project>
